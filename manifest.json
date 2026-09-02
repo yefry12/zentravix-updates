@@ -1,11 +1,11 @@
 {
-  "product": "ZENTRAVIX",
-  "version": "0.2.0",
-  "enabled": true,
-  "mandatory": false,
-  "download_url": "https://github.com/yefry12/zentravix-updates/releases/download/v0.2.0/Zentravix-0.2.0-win-x64.zip",
-  "sha256": "5CB9D4203CA55E9033521C1B778B6AB9DF22B2ACFA2AADD6EBF3471EAFE7884B",
-  "size_bytes": 70921296,
-  "notes": "Nueva vista múltiple en filas, pantallas en vivo, control principal y sincronización.",
-  "published_at": "2026-09-02T05:06:16Z"
+    "product":  "ZENTRAVIX",
+    "version":  "0.2.1",
+    "enabled":  true,
+    "mandatory":  false,
+    "download_url":  "https://github.com/yefry12/zentravix-updates/releases/download/v0.2.1/Zentravix-0.2.1-win-x64.zip",
+    "sha256":  "3DA986CDDB46E451DCB80AE807F161C20C5560D82177535DDA57F6F3FE5D8795",
+    "size_bytes":  70924467,
+    "notes":  "Nueva interfaz profesional, vista múltiple optimizada, panel lateral minimizable, selección de dispositivos por clic, cuadrícula adaptable y mejoras de control.",
+    "published_at":  "2026-09-02T05:43:56.4674112Z"
 }
