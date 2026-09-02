@@ -1,11 +1,11 @@
 {
     "product":  "ZENTRAVIX",
-    "version":  "0.2.8",
+    "version":  "0.2.9",
     "enabled":  true,
     "mandatory":  false,
-    "download_url":  "https://github.com/yefry12/zentravix-updates/releases/download/v0.2.8/Zentravix-0.2.8-win-x64.zip",
-    "sha256":  "72C86048D528DF556B9DDAC3939D07021F33AA981B069C8676A479612A0599CF",
-    "size_bytes":  70943557,
-    "notes":  "ZENTRAVIX v0.2.8: version corregida del sistema LIVE. Mejoras de velocidad y respuesta, vista PRINCIPAL prioritaria, cuadros uniformes, separacion ajustable entre dispositivos, mejor visualizacion de diferentes relaciones de pantalla y mejoras para Samsung S8, Z Flip y otros dispositivos Android.",
-    "published_at":  "2026-09-02T08:16:20.0921968Z"
+    "download_url":  "https://github.com/yefry12/zentravix-updates/releases/download/v0.2.9/Zentravix-0.2.9-win-x64.zip",
+    "sha256":  "BBC980101EF87E8E7255BD6DAA882AFB9421514A42BE206DC73A9D45AB1A4039",
+    "size_bytes":  70943477,
+    "notes":  "Pantallas completas sin recorte ni difuminacion, cuadros uniformes, separacion ajustable funcional, selector FPS real 1/2/4/6/8/10 y menor latencia de vista principal. Mantiene ADB compartido.",
+    "published_at":  "2026-09-02T08:28:26.9704409Z"
 }
