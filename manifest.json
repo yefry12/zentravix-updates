@@ -1,11 +1,11 @@
 {
     "product":  "ZENTRAVIX",
-    "version":  "0.2.4",
+    "version":  "0.2.5",
     "enabled":  true,
     "mandatory":  false,
-    "download_url":  "https://github.com/yefry12/zentravix-updates/releases/download/v0.2.4/Zentravix-0.2.4-win-x64.zip",
-    "sha256":  "81A7F18B97FDA4D142EA02A3C3B3C07A8FE734E96E57C020D95FE93C7E275F9E",
-    "size_bytes":  70932855,
-    "notes":  "Mejoras en la vista en vivo de todos los dispositivos y corrección del sistema de actualizaciones. ZENTRAVIX ahora consulta directamente la API de GitHub para detectar nuevas versiones de forma más confiable.",
-    "published_at":  "2026-09-02T06:27:44.3725285Z"
+    "download_url":  "https://github.com/yefry12/zentravix-updates/releases/download/v0.2.5/Zentravix-0.2.5-win-x64.zip",
+    "sha256":  "16E54FBCE2F65614D49F4D32511CE7E33322F5F4F897D40F74A57B90AC580E75",
+    "size_bytes":  70940944,
+    "notes":  "ZENTRAVIX v0.2.5: agrega correccion automatica de fecha y hora por ADB para seleccionados, todos ONLINE, Samsung S8 y Z Flip. Obtiene la hora actual desde Internet y aplica America/New_York sin depender de la zona horaria de la PC. Incluye instalacion APK por lotes, etiquetas USB/OTG y Wi-Fi/ADB y mejoras de visualizacion. Mantiene el servidor ADB compartido sin reiniciarlo.",
+    "published_at":  "2026-09-02T07:29:51.7356281Z"
 }
