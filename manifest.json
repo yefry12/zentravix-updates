@@ -1,11 +1,11 @@
 {
     "product":  "ZENTRAVIX",
-    "version":  "0.2.9",
+    "version":  "0.3.0",
     "enabled":  true,
     "mandatory":  false,
-    "download_url":  "https://github.com/yefry12/zentravix-updates/releases/download/v0.2.9/Zentravix-0.2.9-win-x64.zip",
-    "sha256":  "BBC980101EF87E8E7255BD6DAA882AFB9421514A42BE206DC73A9D45AB1A4039",
-    "size_bytes":  70943477,
-    "notes":  "Pantallas completas sin recorte ni difuminacion, cuadros uniformes, separacion ajustable funcional, selector FPS real 1/2/4/6/8/10 y menor latencia de vista principal. Mantiene ADB compartido.",
-    "published_at":  "2026-09-02T08:28:26.9704409Z"
+    "download_url":  "https://github.com/yefry12/zentravix-updates/releases/download/v0.3.0/Zentravix-0.3.0-win-x64.zip",
+    "sha256":  "291B678F899E8617DB596A49B342E3602286E4E7812D53FB1A40925273A9F3DF",
+    "size_bytes":  70959466,
+    "notes":  "Motor H264 persistente, miniaturas visibles más rápidas, menor consumo, ADB compartido, reconexión independiente y reversión automática de actualizaciones.",
+    "published_at":  "2026-09-02T15:53:58.2310753Z"
 }
