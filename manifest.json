@@ -1,11 +1,11 @@
 {
     "product":  "ZENTRAVIX",
-    "version":  "0.2.7",
+    "version":  "0.2.8",
     "enabled":  true,
     "mandatory":  false,
-    "download_url":  "https://github.com/yefry12/zentravix-updates/releases/download/v0.2.7/Zentravix-0.2.7-win-x64.zip",
-    "sha256":  "7DF6A3FE3F71491DC677BBB807A7B471FDEC8E307EA3A8889F3FBB508D9B160E",
-    "size_bytes":  70942860,
-    "notes":  "ZENTRAVIX v0.2.7: interfaz LIVE corregida, cuadros uniformes, separacion ajustable, mejoras de visualizacion para diferentes relaciones de pantalla, PRINCIPAL prioritaria y menor latencia.",
-    "published_at":  "2026-09-02T08:14:44.8719461Z"
+    "download_url":  "https://github.com/yefry12/zentravix-updates/releases/download/v0.2.8/Zentravix-0.2.8-win-x64.zip",
+    "sha256":  "72C86048D528DF556B9DDAC3939D07021F33AA981B069C8676A479612A0599CF",
+    "size_bytes":  70943557,
+    "notes":  "ZENTRAVIX v0.2.8: version corregida del sistema LIVE. Mejoras de velocidad y respuesta, vista PRINCIPAL prioritaria, cuadros uniformes, separacion ajustable entre dispositivos, mejor visualizacion de diferentes relaciones de pantalla y mejoras para Samsung S8, Z Flip y otros dispositivos Android.",
+    "published_at":  "2026-09-02T08:16:11.4817519Z"
 }
