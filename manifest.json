@@ -1,11 +1,11 @@
 {
-    "product":  "ZENTRAVIX",
-    "version":  "0.3.0",
-    "enabled":  true,
-    "mandatory":  false,
-    "download_url":  "https://github.com/yefry12/zentravix-updates/releases/download/v0.3.0/Zentravix-0.3.0-win-x64.zip",
-    "sha256":  "291B678F899E8617DB596A49B342E3602286E4E7812D53FB1A40925273A9F3DF",
-    "size_bytes":  70959466,
-    "notes":  "Motor H264 persistente, miniaturas visibles más rápidas, menor consumo, ADB compartido, reconexión independiente y reversión automática de actualizaciones.",
-    "published_at":  "2026-09-02T15:53:58.2310753Z"
+  "product": "ZENTRAVIX",
+  "version": "0.3.0",
+  "enabled": false,
+  "mandatory": false,
+  "download_url": "https://github.com/yefry12/zentravix-updates/releases/download/v0.3.0/Zentravix-0.3.0-win-x64.zip",
+  "sha256": "291B678F899E8617DB596A49B342E3602286E4E7812D53FB1A40925273A9F3DF",
+  "size_bytes": 70959466,
+  "notes": "Actualización 0.3.0 retirada. Mantener la versión estable anterior.",
+  "published_at": "2026-09-02T15:53:58.2310753Z"
 }
