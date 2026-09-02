@@ -4,8 +4,8 @@
     "enabled":  true,
     "mandatory":  false,
     "download_url":  "https://github.com/yefry12/zentravix-updates/releases/download/v0.2.7/Zentravix-0.2.7-win-x64.zip",
-    "sha256":  "37E48D2E43DFD40FE5DAC6F9B932E6FB6CBDA2F88CC3C09E74CFC7EDB663305D",
-    "size_bytes":  70943552,
-    "notes":  "ZENTRAVIX v0.2.7: interfaz LIVE corregida. Cuadros uniformes y ordenados, separacion ajustable entre dispositivos, visualizacion completa de diferentes relaciones de pantalla, mejoras para Samsung S8 y Z Flip, PRINCIPAL con mayor prioridad y menor latencia de controles y captura. Compatible con multiples modelos Android y mantiene ADB compartido.",
-    "published_at":  "2026-09-02T08:13:26.6792539Z"
+    "sha256":  "7DF6A3FE3F71491DC677BBB807A7B471FDEC8E307EA3A8889F3FBB508D9B160E",
+    "size_bytes":  70942860,
+    "notes":  "ZENTRAVIX v0.2.7: interfaz LIVE corregida, cuadros uniformes, separacion ajustable, mejoras de visualizacion para diferentes relaciones de pantalla, PRINCIPAL prioritaria y menor latencia.",
+    "published_at":  "2026-09-02T08:14:44.8719461Z"
 }
