@@ -1,11 +1,11 @@
 {
     "product":  "ZENTRAVIX",
-    "version":  "0.2.2",
+    "version":  "0.2.3",
     "enabled":  true,
     "mandatory":  false,
-    "download_url":  "https://github.com/yefry12/zentravix-updates/releases/download/v0.2.2/Zentravix-0.2.2-win-x64.zip",
-    "sha256":  "C6A08BA559DB2E9EF290888DAA0B6C7CFE59AD7D73A44279C5DA28D00B6FAFCA",
-    "size_bytes":  70930603,
-    "notes":  "Búsqueda automática de dispositivos ADB, detección de redes locales, compatibilidad con diferentes rangos de IP, nueva interfaz ZENTRAVIX, vista múltiple automática, selección por clic, tamaños S/M/L y mejoras de control.",
-    "published_at":  "2026-09-02T06:09:50.0759301Z"
+    "download_url":  "https://github.com/yefry12/zentravix-updates/releases/download/v0.2.3/Zentravix-0.2.3-win-x64.zip",
+    "sha256":  "5717690C926EEADA371FD5D23AAE98701D044AD5BD11AD0E1B9E30439C7214B9",
+    "size_bytes":  70931433,
+    "notes":  "Corrección del sistema de vista en vivo. Mejorada la captura automática de pantallas, estabilidad con múltiples dispositivos y procesamiento de imágenes ADB.",
+    "published_at":  "2026-09-02T06:21:46.5249113Z"
 }
